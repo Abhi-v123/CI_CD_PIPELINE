@@ -24,6 +24,6 @@ pipeline {
                 echo 'Deploying the project...'
                 // Add your deployment commands here (e.g., 'sh deploy.sh')
             }
-        }
-    }
+        }
+    }
 }
